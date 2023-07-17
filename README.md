@@ -1,8 +1,10 @@
-# kubectl-autocomplete
+# kubectl-autocomplete zsh
 
-zsh için auto complete nasıl yapılır?
+öncelikle zsh yüklenmesi gerekiyor.
 
-pre-req olarak oh-my-zsh yüklenmesi gerek. terminalinizde aşağıdaki komutu çalıştırmanız yeterli.
+https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+
+daha sonra  oh-my-zsh yüklenmesi gerek. terminalinizde aşağıdaki komutu çalıştırmanız yeterli.
 
 ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
